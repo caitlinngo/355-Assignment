@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "simple-math.c"
+//Caitlin Ngo
 
 int main() {
 	int result = addingTen(-3);
